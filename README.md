@@ -23,4 +23,4 @@ I'm Alananisimov
 <br>
 Feel free to contact me :yum:
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40hollz69-28a8ea"></a>
+<a href="https://t.me/hollz69" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40hollz69-28a8ea"></a>
