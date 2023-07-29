@@ -17,8 +17,8 @@ I'm Alananisimov
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=alananisimov">
-<img src="https://github-profile-trophy.vercel.app/?username=alananisimov">
+<img src="https://github-readme-stats.vercel.app/api?username=alananisimov&show_icons=true&theme=ayu-mirage&count_private=true">
+<img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=alananisimov&layout=compact&langs_count=7&theme=ayu-mirage">
 </details>
 
 <br>
