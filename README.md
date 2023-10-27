@@ -14,6 +14,7 @@ I'm Alananisimov
 :star: Here are some projects that I'm working on:
 - [ezfps.store Site](https://www.ezfps.store/)
 - [ezfps app Site](https://www.launcher.ezfps.store/)
+- [Telegram bot for shopping](https://t.me/ezfps_bot)
 - ezfps mobile app (soon)
 
 <details>
