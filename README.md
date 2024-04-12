@@ -12,8 +12,8 @@ I'm Alananisimov
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-- [Book store](https://www.bookconer.site)
-- school-gpt (soon)
+- [book store](https://www.bookconer.site)
+- [freelance projects](https://github/alananisimov/freelance)
 
 <details>
 <summary>:trophy: Github Stats</summary>
